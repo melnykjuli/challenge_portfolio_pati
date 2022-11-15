@@ -71,3 +71,7 @@ Added locators for "dashboard" page
 ## Subtask 4: Created add_match.py
 
 Added locators for "Add match" page
+
+# TASK 3: First automatic test, asserts
+
+Added task 3 with subtasks 1-5
